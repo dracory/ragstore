@@ -11,5 +11,5 @@ This project is dual-licensed under the following terms:
 ## Installation
 
 ```
-go get github.com/dracory/base
+go get github.com/dracory/ragstore
 ```
